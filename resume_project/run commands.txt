@@ -1,0 +1,11 @@
+python -m venv .venv
+
+.venv\Scripts\activate
+
+pip install scikit-learn
+
+python resume_project/main.py
+
+resume folder path: resume_project/resumes
+
+job file path: resume_project/job.txt
